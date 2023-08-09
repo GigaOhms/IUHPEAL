@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R24 Old Footprint=MF72 New Footprint=MF72 D9
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Room: Name=SCH_3pha40V

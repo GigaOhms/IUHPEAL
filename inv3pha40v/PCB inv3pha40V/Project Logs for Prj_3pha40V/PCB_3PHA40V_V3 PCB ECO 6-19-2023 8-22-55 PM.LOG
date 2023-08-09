@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetArduino1_D6 Pin=P10-3
+Removed Pin From Net: NetName=NetC13_1 Pin=P26-1
+Removed Pin From Net: NetName=NetC11_1 Pin=P26-3
+Added Pin To Net: NetName=NetC11_1 Pin=P26-1
+Added Pin To Net: NetName=NetC13_1 Pin=P26-3
+Added Room: Name=SCH_3pha40V

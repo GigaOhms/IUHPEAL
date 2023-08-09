@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND_P Pin=R3-2
+Removed Member From Class: ClassName=Sensor_V1 Member=R3
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=GND_P Pin=R?-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Pin To Net: NetName=NetR5_2 Pin=R?-2
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 1M
+Added Room: Name=Sensor_V1

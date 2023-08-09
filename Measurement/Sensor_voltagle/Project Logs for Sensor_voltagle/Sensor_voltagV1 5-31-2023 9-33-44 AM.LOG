@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetJP1_3 Pin=R7-2
+Removed Pin From Net: NetName=NetC10_1 Pin=R10-1
+Removed Pin From Net: NetName=NetC7_2 Pin=R10-2
+Removed Pin From Net: NetName=NetL1_1 Pin=R11-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R11-2
+Removed Pin From Net: NetName=NetL2_1 Pin=R12-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R12-2
+Removed Member From Class: ClassName=Sensor_V1 Member=R7
+Removed Member From Class: ClassName=Sensor_V1 Member=R10
+Removed Member From Class: ClassName=Sensor_V1 Member=R11
+Removed Member From Class: ClassName=Sensor_V1 Member=R12
+Added Component: Designator=J?(domino_2pin_5.08mm)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=NetC7_2 Pin=J?-1
+Added Pin To Net: NetName=NetC7_1 Pin=J?-2
+Added Pin To Net: NetName=NetC1_1 Pin=R?-1
+Added Pin To Net: NetName=NetC2_2 Pin=R?-1
+Added Pin To Net: NetName=NetC7_2 Pin=R?-1
+Added Pin To Net: NetName=NetJP1_3 Pin=R?-1
+Added Pin To Net: NetName=NetC7_1 Pin=R?-2
+Added Pin To Net: NetName=NetC10_1 Pin=R?-2
+Added Pin To Net: NetName=NetL1_1 Pin=R?-2
+Added Pin To Net: NetName=NetL2_1 Pin=R?-2
+Added Member To Class: ClassName=Sensor_V1 Member=Component J? domino
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Room: Name=Sensor_V1

@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P11
+Change Component Designator: OldDesignator=P11 NewDesignator=P13
+Change Component Designator: OldDesignator=P12 NewDesignator=P15
+Change Component Designator: OldDesignator=P13 NewDesignator=P16
+Change Component Designator: OldDesignator=P14 NewDesignator=P17
+Change Component Designator: OldDesignator=P15 NewDesignator=P18
+Change Component Designator: OldDesignator=P16 NewDesignator=P19
+Change Component Designator: OldDesignator=P17 NewDesignator=P20
+Change Component Designator: OldDesignator=P18 NewDesignator=P21
+Change Component Designator: OldDesignator=P19 NewDesignator=P22
+Change Component Designator: OldDesignator=P20 NewDesignator=P23
+Change Component Designator: OldDesignator=P21 NewDesignator=P24
+Change Component Designator: OldDesignator=P22 NewDesignator=P25
+Change Component Designator: OldDesignator=P23 NewDesignator=P26
+Change Component Designator: OldDesignator=P24 NewDesignator=P27
+Change Component Designator: OldDesignator=P25 NewDesignator=P28
+Change Component Designator: OldDesignator=P26 NewDesignator=P29
+Change Component Designator: OldDesignator=P27 NewDesignator=P30
+Change Component Designator: OldDesignator=P28 NewDesignator=P31
+Change Component Designator: OldDesignator=P29 NewDesignator=P32
+Added Component: Designator=P4(Tp_black_1p)
+Added Component: Designator=P12(Tp_black_1p)
+Added Component: Designator=P14(Tp_black_1p)
+Added Pin To Net: NetName=+5V Pin=P4-1
+Added Pin To Net: NetName=+5V Pin=P12-1
+Added Pin To Net: NetName=+5V Pin=P14-1
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetP6_1
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetP7_1
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetP8_1
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetP19_1
+Change Net Name : Old Net Name=NetP19_1 New Net Name=NetP22_1
+Change Net Name : Old Net Name=NetP20_1 New Net Name=NetP23_1
+Change Net Name : Old Net Name=NetP24_1 New Net Name=NetP27_1
+Change Net Name : Old Net Name=NetP27_1 New Net Name=NetP30_1
+Change Net Name : Old Net Name=NetP28_1 New Net Name=NetP31_1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C6 2.2uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C7 10uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C11 1uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C13 1uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P1 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P3 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P4 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P6 header_2x1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P7 header_2x1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P11 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P12 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P13 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P15 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P17 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P18 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P19 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P20 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P21 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P22 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P23 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P30 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P31 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P32 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R1 Resistor
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R3 1K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R5 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R8 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R9 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R10 9.1k
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R15 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R17 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R18 10 Ohm
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R21 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R22 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component U6 Mosun_0512
+Added Room: Name=SCH_3pha40V

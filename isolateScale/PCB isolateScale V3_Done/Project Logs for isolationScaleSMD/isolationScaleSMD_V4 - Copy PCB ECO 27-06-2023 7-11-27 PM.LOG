@@ -1,0 +1,10 @@
+Added Component: Designator=U1(SOP-8127P600X175-9N)
+Added Pin To Net: NetName=GNDin Pin=U1-1
+Added Pin To Net: NetName=NetR4_2 Pin=U1-2
+Added Pin To Net: NetName=GNDin Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=BAT+ Pin=U1-5
+Added Pin To Net: NetName=NetR3_2 Pin=U1-6
+Added Pin To Net: NetName=NetR2_2 Pin=U1-7
+Added Pin To Net: NetName=+5 Pin=U1-8
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U1 TP4056

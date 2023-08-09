@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\quynh\OneDrive - Industrial University of HoChiMinh City\NCKH_INVERTER\PCB\Sensor_voltagle\Sensor_Voltage_V1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.71
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

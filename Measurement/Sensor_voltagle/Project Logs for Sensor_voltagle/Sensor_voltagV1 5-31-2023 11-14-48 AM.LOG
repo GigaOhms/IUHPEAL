@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=J?-1
+Removed Pin From Net: NetName=NetC7_1 Pin=J?-2
+Removed Member From Class: ClassName=Sensor_V1 Member=J?
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 10K
+Added Room: Name=Sensor_V1

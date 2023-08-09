@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR3-1
+Added Pin To Net: NetName=NetR10_2 Pin=VR1-1
+Added Pin To Net: NetName=NetR33_2 Pin=VR3-1
+Added Room: Name=isolationScaleSMD

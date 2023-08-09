@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetDB1_2 Pin=P21-1
+Removed Pin From Net: NetName=NetA0_1 Pin=U8-11
+Change Component Footprint: Designator=R1 Old Footprint=res_1wat New Footprint=MF72
+Change Component Comment : Designator=R14 Old Comment=1k New Comment=560
+Change Component Comment : Designator=R10 Old Comment=9.1k New Comment=10k
+Change Component Comment : Designator=R1 Old Comment=Resistor New Comment=MF72
+Added Component: Designator=C14(CN1)
+Added Component: Designator=R24(MF72)
+Added Pin To Net: NetName=NetA0_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetDB1_2 Pin=R24-2
+Added Pin To Net: NetName=NetA0_1 Pin=U8-10
+Added Pin To Net: NetName=NetP21_1 Pin=P21-1
+Added Pin To Net: NetName=NetP21_1 Pin=R24-1
+Added Net: Name=NetP21_1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C12 1uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C14 105
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R24 MF72
+Added Room: Name=SCH_3pha40V

@@ -1,0 +1,24 @@
+Added Component: Designator=M1(Mosun_050x)
+Added Component: Designator=M2(Mosun_050x)
+Added Component: Designator=M3(Mosun_050x)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=+5V Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=+12V1 Pin=M1-4
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=+5V Pin=M2-2
+Added Pin To Net: NetName=GND Pin=M2-3
+Added Pin To Net: NetName=+12V2 Pin=M2-4
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=+5V Pin=M3-2
+Added Pin To Net: NetName=GND Pin=M3-3
+Added Pin To Net: NetName=+12V3 Pin=M3-4
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component M1 Mosun_0512
+Added Member To Class: ClassName=SCH_3pha40V Member=Component M2 Mosun_0512
+Added Member To Class: ClassName=SCH_3pha40V Member=Component M3 Mosun_0512
+Added Room: Name=SCH_3pha40V

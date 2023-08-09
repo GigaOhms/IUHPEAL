@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C7 Old DesignItemId=capacitor_non_polar New DesignItemId=cap 103_1
+Change Component Footprint: Designator=C7 Old Footprint=C-NP-0805 New Footprint=cap 103
+Change Component Footprint: Designator=C5 Old Footprint=CAP_SMD_6_3MM New Footprint=CP1/2
+Change Component Footprint: Designator=C6 Old Footprint=CAP_SMD_6_3MM New Footprint=CP1/2
+Change Component Comment : Designator=C7 Old Comment=Capacitor New Comment=cap 103_1
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Room: Name=SCH_3pha40V

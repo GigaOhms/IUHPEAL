@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C11 Old Footprint=CP30 New Footprint=CF22.5
+Change Component Footprint: Designator=C12 Old Footprint=CP30 New Footprint=CF22.5
+Change Component Footprint: Designator=C13 Old Footprint=CP30 New Footprint=CF22.5
+Change Component Library : Designator=C11 Old Library=thuvien_altium.SchLib New Library=thuvien_altium_v1.SchLib

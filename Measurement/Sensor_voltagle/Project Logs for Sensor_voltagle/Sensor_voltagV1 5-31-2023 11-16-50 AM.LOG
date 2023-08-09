@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Added Member To Class: ClassName=Sensor_V1 Member=Component R7 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R11 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R12 10K
+Added Room: Name=Sensor_V1

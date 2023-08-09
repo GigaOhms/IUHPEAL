@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetArduino1_D6 Pin=P10-3
+Change Component Designator: OldDesignator=5VDC NewDesignator=JDC1
+Added Pin To Net: NetName=NetC1_2 Pin=L2-1
+Added Pin To Net: NetName=NetC11_1 Pin=L2-2
+Added Pin To Net: NetName=NetC6_2 Pin=L3-1
+Added Pin To Net: NetName=NetC12_1 Pin=L3-2
+Added Pin To Net: NetName=NetC8_2 Pin=L4-1
+Added Pin To Net: NetName=NetC13_1 Pin=L4-2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component L2 Inductor
+Added Member To Class: ClassName=SCH_3pha40V Member=Component L3 Inductor
+Added Member To Class: ClassName=SCH_3pha40V Member=Component L4 Inductor
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P26 Terminal_4p
+Added Room: Name=SCH_3pha40V

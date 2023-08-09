@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [isolationScaleSMD.PrjPcb]
+   Generated File[isolationScaleSMD_V4 - Copy-RoundHoles.TXT]
+   Generated File[isolationScaleSMD_V4 - Copy-SlotHoles.TXT]
+   Generated File[isolationScaleSMD_V4 - Copy.LDP]
+   Generated File[isolationScaleSMD_V4 - Copy.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:52:44 PM On 27/06/2023

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND_D Pin=L2-2
+Added Component: Designator=L?(LED-0805-Red)
+Added Component: Designator=R?(RESC0805)
+Added Pin To Net: NetName=GND_P Pin=L2-2
+Added Pin To Net: NetName=GND_D Pin=L?-2
+Added Pin To Net: NetName=NetC11_1 Pin=R?-2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-1
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=Sensor_V1 Member=Component L? LED 0805
+Added Member To Class: ClassName=Sensor_V1 Member=Component R? 1K
+Added Room: Name=Sensor_V1

@@ -1,0 +1,31 @@
+Added Component: Designator=Q1(TO-220)
+Added Component: Designator=Q2(TO-220)
+Added Component: Designator=Q3(TO-220)
+Added Component: Designator=Q4(TO-220)
+Added Component: Designator=Q5(TO-220)
+Added Component: Designator=Q6(TO-220)
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD5_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-3
+Added Pin To Net: NetName=NetD6_1 Pin=Q3-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q3-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q3-3
+Added Pin To Net: NetName=NetD7_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetD8_1 Pin=Q5-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=NetD9_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q1 IRF540
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q2 IRF540
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q3 IRF540
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q4 IRF540
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q5 IRF540
+Added Member To Class: ClassName=SCH_3pha40V Member=Component Q6 IRF540
+Added Room: Name=SCH_3pha40V

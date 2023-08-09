@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=R6-2
+Removed Pin From Net: NetName=NetJ1_1 Pin=R9-1
+Removed Pin From Net: NetName=NetR8_1 Pin=R9-2
+Change Component Footprint: Designator=R6 Old Footprint=RES_2512 New Footprint=RES1206
+Change Component Footprint: Designator=R8 Old Footprint=RES_2512 New Footprint=RES1206
+Change Component Footprint: Designator=R9 Old Footprint=RES_2512 New Footprint=RES1206
+Change Component Comment : Designator=R6 Old Comment=5M New Comment=1M
+Change Component Comment : Designator=R8 Old Comment=5M New Comment=2M
+Change Component Comment : Designator=R9 Old Comment=5M New Comment=2M
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=1M
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=R10 NewDesignator=R15
+Change Component Designator: OldDesignator=R11 NewDesignator=R16
+Change Component Designator: OldDesignator=R12 NewDesignator=R17
+Change Component Designator: OldDesignator=R NewDesignator=R7
+Added Component: Designator=R10(RES1206)
+Added Component: Designator=R11(RES1206)
+Added Component: Designator=R12(RES1206)
+Added Component: Designator=R13(RES1206)
+Added Component: Designator=R14(RES1206)
+Added Pin To Net: NetName=NetR3_1 Pin=R6-1
+Added Pin To Net: NetName=NetR8_1 Pin=R13-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R14-2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R10-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R11-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R12-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R13-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R14-1
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Sensor_V1 Member=Component JP3 JP 1x1 2.54
+Added Member To Class: ClassName=Sensor_V1 Member=Component R13 2M
+Added Member To Class: ClassName=Sensor_V1 Member=Component R14 2M
+Added Member To Class: ClassName=Sensor_V1 Member=Component R15 4.99k
+Added Member To Class: ClassName=Sensor_V1 Member=Component R16 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R17 10K
+Added Room: Name=Sensor_V1

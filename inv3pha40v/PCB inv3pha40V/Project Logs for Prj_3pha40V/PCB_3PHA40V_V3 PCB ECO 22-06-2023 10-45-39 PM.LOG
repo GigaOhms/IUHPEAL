@@ -1,0 +1,10 @@
+Added Component: Designator=C15(Capacitor P15)
+Added Pin To Net: NetName=NetC10_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C15 Capacitor
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Room: Name=SCH_3pha40V

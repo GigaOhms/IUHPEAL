@@ -1,0 +1,6 @@
+Added Component: Designator=LO1(SCMH_M3P5FT)
+Added Component: Designator=LO2(SCMH_M3P5FT)
+Added Member To Class: ClassName=isolationScaleSMD Member=Component 1 Nguon Doi 12V
+Added Member To Class: ClassName=isolationScaleSMD Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=isolationScaleSMD Member=Component LO2 LO KHOAN
+Added Room: Name=isolationScaleSMD

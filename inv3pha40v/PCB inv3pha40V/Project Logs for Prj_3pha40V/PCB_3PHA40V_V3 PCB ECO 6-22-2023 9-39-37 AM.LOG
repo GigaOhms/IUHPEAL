@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=SCH_3pha40V Member=P27
+Removed Member From Class: ClassName=SCH_3pha40V Member=P30
+Removed Member From Class: ClassName=SCH_3pha40V Member=P31
+Change Component Designator: OldDesignator=P4 NewDesignator=+5V1
+Change Component Designator: OldDesignator=P5 NewDesignator=+12V1
+Change Component Designator: OldDesignator=P12 NewDesignator=+5V2
+Change Component Designator: OldDesignator=P13 NewDesignator=+12V2
+Change Component Designator: OldDesignator=P14 NewDesignator=+5V3
+Change Component Designator: OldDesignator=P15 NewDesignator=+12V3
+Change Component Designator: OldDesignator=P16 NewDesignator=GND
+Change Component Designator: OldDesignator=P17 NewDesignator=84VDC
+Change Component Designator: OldDesignator=P18 NewDesignator=GND
+Change Component Designator: OldDesignator=P19 NewDesignator=H01
+Change Component Designator: OldDesignator=P20 NewDesignator=+5VDC
+Change Component Designator: OldDesignator=P22 NewDesignator=HO2
+Change Component Designator: OldDesignator=P23 NewDesignator=HO3
+Change Component Designator: OldDesignator=P24 NewDesignator=A0
+Change Component Designator: OldDesignator=P25 NewDesignator=VS1
+Change Component Designator: OldDesignator=P27 NewDesignator=LO2
+Change Component Designator: OldDesignator=P28 NewDesignator=VS2
+Change Component Designator: OldDesignator=P29 NewDesignator=VS3
+Change Component Designator: OldDesignator=P30 NewDesignator=LO1
+Change Component Designator: OldDesignator=P31 NewDesignator=LO3
+Change Component Designator: OldDesignator=P32 NewDesignator=GND
+Change Component Designator: OldDesignator=U1 NewDesignator=IR1
+Change Component Designator: OldDesignator=U2 NewDesignator=DB2
+Change Component Designator: OldDesignator=U3 NewDesignator=IR2
+Change Component Designator: OldDesignator=U4 NewDesignator=M1
+Change Component Designator: OldDesignator=U5 NewDesignator=M2
+Change Component Designator: OldDesignator=U6 NewDesignator=M3
+Change Component Designator: OldDesignator=U7 NewDesignator=IR3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=Net84VDC_1
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetDB2_2
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetIR1_3
+Change Net Name : Old Net Name=NetP6_2 New Net Name=NetIR1_2
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetIR2_3
+Change Net Name : Old Net Name=NetP7_2 New Net Name=NetIR2_2
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetIR3_3
+Change Net Name : Old Net Name=NetP8_2 New Net Name=NetIR3_2
+Change Net Name : Old Net Name=NetP19_1 New Net Name=NetH01_1
+Change Net Name : Old Net Name=NetP22_1 New Net Name=NetHO2_1
+Change Net Name : Old Net Name=NetP23_1 New Net Name=NetHO3_1
+Change Net Name : Old Net Name=NetP24_1 New Net Name=NetA0_1
+Change Net Name : Old Net Name=NetP27_1 New Net Name=NetIR2_5
+Change Net Name : Old Net Name=NetP30_1 New Net Name=NetIR1_5
+Change Net Name : Old Net Name=NetP31_1 New Net Name=NetIR3_5
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetDB2_1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component +5V1 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component +5V3 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component +5VDC testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component +12V1 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component +12V3 testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Room: Name=SCH_3pha40V

@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=4.99k
+Change Component Designator: OldDesignator=R7 NewDesignator=4.99k
+Added Component: Designator=JP?(test_point)
+Added Component: Designator=JP?(test_point)
+Added Pin To Net: NetName=GND_D Pin=JP?-1
+Added Pin To Net: NetName=NetJP1_3 Pin=JP?-1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=Net4.99k_2
+Change Net Name : Old Net Name=NetJP1_3 New Net Name=Net4.99k_1
+Added Member To Class: ClassName=Sensor_V1 Member=Component C8 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component JP? JP 1x1 2.54
+Added Member To Class: ClassName=Sensor_V1 Member=Component JP? JP 1x1 2.54
+Added Room: Name=Sensor_V1

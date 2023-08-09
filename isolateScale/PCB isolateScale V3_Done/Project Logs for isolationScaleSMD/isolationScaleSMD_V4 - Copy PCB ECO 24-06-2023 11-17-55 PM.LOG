@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GNDin Pin=LD2-2
+Removed Pin From Net: NetName=GNDin Pin=LD3-2
+Removed Pin From Net: NetName=+5 Pin=R42-2
+Removed Pin From Net: NetName=VBAT Pin=R43-2
+Removed Member From Class: ClassName=isolationScaleSMD Member=LD2
+Removed Member From Class: ClassName=isolationScaleSMD Member=LD3
+Removed Member From Class: ClassName=isolationScaleSMD Member=R42
+Removed Member From Class: ClassName=isolationScaleSMD Member=R43
+Added Member To Class: ClassName=isolationScaleSMD Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=isolationScaleSMD Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=isolationScaleSMD Member=Component LO4 LO KHOAN
+Added Member To Class: ClassName=isolationScaleSMD Member=Component VR2 1K
+Added Room: Name=isolationScaleSMD

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\altium\d? án\PCB isolateScale V3\isolationScaleSMD_V4 - Copy.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=isolationscalesmd_v4 - copy-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=isolationscalesmd_v4 - copy-slotholes.txt|DrillLayers=gtl,gbl

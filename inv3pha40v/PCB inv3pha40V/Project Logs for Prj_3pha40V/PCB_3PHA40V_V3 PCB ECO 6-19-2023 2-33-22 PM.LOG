@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetArduino1_D6 Pin=P10-3
+Added Pin To Net: NetName=NetArduino1_D5 Pin=Arduino1-D5
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C8 2.2uF
+Added Member To Class: ClassName=SCH_3pha40V Member=Component C9 10uF
+Added Room: Name=SCH_3pha40V

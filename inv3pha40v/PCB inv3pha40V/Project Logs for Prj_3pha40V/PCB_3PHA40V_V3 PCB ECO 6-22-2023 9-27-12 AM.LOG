@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=+5V NewDesignator=P4
+Change Component Designator: OldDesignator=+5V NewDesignator=P12
+Change Component Designator: OldDesignator=+5V NewDesignator=P14
+Change Component Designator: OldDesignator=+5V NewDesignator=P20
+Change Component Designator: OldDesignator=+12V NewDesignator=P5
+Change Component Designator: OldDesignator=+12V NewDesignator=P13
+Change Component Designator: OldDesignator=+12V NewDesignator=P15
+Change Component Designator: OldDesignator=5VDC NewDesignator=JDC1
+Change Component Designator: OldDesignator=84VAC NewDesignator=P17
+Change Component Designator: OldDesignator=A0 NewDesignator=P9
+Change Component Designator: OldDesignator=GND NewDesignator=P16
+Change Component Designator: OldDesignator=GND NewDesignator=P18
+Change Component Designator: OldDesignator=GNDAC NewDesignator=P3
+Change Component Designator: OldDesignator=HO1 NewDesignator=P19
+Change Component Designator: OldDesignator=L01 NewDesignator=P30
+Added Pin To Net: NetName=NetP24_1 Pin=U8-11
+Added Pin To Net: NetName=NetP24_1 Pin=U8-12
+Added Room: Name=SCH_3pha40V

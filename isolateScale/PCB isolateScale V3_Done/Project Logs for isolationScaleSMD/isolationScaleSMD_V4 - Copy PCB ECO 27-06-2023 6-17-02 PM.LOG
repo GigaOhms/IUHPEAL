@@ -1,0 +1,47 @@
+Change Component Comment : Designator=Pin 1 Old Comment=P? New Comment=PBAT
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P1 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P3 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P7 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P8 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P10 BNC_2p
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P11 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P13 BNC_2p
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P14 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P15 BNC_2p
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P16 BNC_2p
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R2 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R3 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R4 1.2K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R5 10K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R6 100R
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R7 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R8 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R10 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R11 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R12 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R13 100K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R15 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R16 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R18 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R20 100K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R21 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R22 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R24 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R26 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R27 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R28 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R29 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R30 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R32 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R33 100K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R35 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R36 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R38 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R40 100K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R41 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U1 TP4056
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U2 DW01A
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U4 opamp_741
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U5 opamp_741
+Added Member To Class: ClassName=isolationScaleSMD Member=Component U8 opamp_741
+Added Room: Name=isolationScaleSMD

@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GNP Pin=P5-3
+Removed Pin From Net: NetName=+5V Pin=P5-5
+Change Component DesignItemId : Designator=P5 Old DesignItemId=header_2x5 New DesignItemId=CON2p
+Change Component Footprint: Designator=P5 Old Footprint=HED2X5N New Footprint=CON2
+Change Component Comment : Designator=P5 Old Comment=header_2x5 New Comment=Domino 2 pin
+Added Component: Designator=P6(CON2)
+Added Component: Designator=P7(CON2)
+Added Component: Designator=P8(CON2)
+Added Component: Designator=P9(CON2)
+Added Pin To Net: NetName=GNW1 Pin=L1-2
+Added Pin To Net: NetName=GNW1 Pin=P4-2
+Added Pin To Net: NetName=+5V Pin=P5-1
+Added Pin To Net: NetName=GNW1 Pin=P5-2
+Added Pin To Net: NetName=GNP Pin=P6-2
+Added Pin To Net: NetName=GNW1 Pin=U2-1
+Added Pin To Net: NetName=GNW1 Pin=U5-1
+Added Pin To Net: NetName=GNW1 Pin=U7-1
+Added Pin To Net: NetName=GNW1 Pin=U8-1
+Change Net Name : Old Net Name=GNW1 New Net Name=GND
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R2-1
+Added Pin To Net: NetName=NetP6_1 Pin=R3-2
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=U1-3
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=U1-2
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=U3-3
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=U3-2
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=U6-3
+Added Net: Name=NetP9_1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=U6-2
+Added Net: Name=NetP9_2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P6 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P7 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P8 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P9 Domino 2 pin
+Added Room: Name=SCH_3pha40V

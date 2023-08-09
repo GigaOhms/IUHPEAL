@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=VR2-1
+Removed Pin From Net: NetName=GND Pin=VR4-1
+Added Pin To Net: NetName=NetR19_2 Pin=VR2-1
+Added Pin To Net: NetName=NetR39_2 Pin=VR4-1
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R1 150K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R2 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R3 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R4 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R5 100K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R6 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R7 1M
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R8 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R10 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component R14 150K
+Added Room: Name=isolationScaleSMD

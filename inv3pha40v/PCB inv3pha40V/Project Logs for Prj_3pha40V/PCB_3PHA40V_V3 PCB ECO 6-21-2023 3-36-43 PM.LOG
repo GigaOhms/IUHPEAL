@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=P4 Old Footprint=Tp_black_1p New Footprint=Tp_blue_1p
+Change Component Footprint: Designator=P12 Old Footprint=Tp_black_1p New Footprint=Tp_blue_1p
+Change Component Footprint: Designator=P14 Old Footprint=Tp_black_1p New Footprint=Tp_blue_1p
+Change Component Footprint: Designator=P5 Old Footprint=Tp_black_1p New Footprint=tp_red_1p
+Change Component Footprint: Designator=P13 Old Footprint=Tp_black_1p New Footprint=tp_red_1p
+Change Component Footprint: Designator=P15 Old Footprint=Tp_black_1p New Footprint=tp_red_1p
+Change Component Footprint: Designator=P1 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P3 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P17 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P25 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P28 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P29 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P32 Old Footprint=Tp_black_1p New Footprint=tp_white_1p
+Change Component Footprint: Designator=P9 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P10 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P11 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P19 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P22 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P23 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P24 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P27 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P30 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Change Component Footprint: Designator=P31 Old Footprint=Tp_black_1p New Footprint=tp_yellow_1p
+Added Room: Name=SCH_3pha40V

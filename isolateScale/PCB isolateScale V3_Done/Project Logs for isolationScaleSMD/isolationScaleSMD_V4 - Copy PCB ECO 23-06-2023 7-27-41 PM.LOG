@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=LD? NewDesignator=LD1
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Component: Designator=P5(tp_red_1p)
+Added Component: Designator=P9(tp_red_1p)
+Added Component: Designator=P12(Tp_black_1p)
+Added Component: Designator=P17(tp_red_1p)
+Added Pin To Net: NetName=VIN Pin=P5-1
+Added Pin To Net: NetName=+12 Pin=P9-1
+Added Pin To Net: NetName=GNDin Pin=P12-1
+Added Pin To Net: NetName=-12 Pin=P17-1
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD1_1
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P5 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P9 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P12 test PCB
+Added Member To Class: ClassName=isolationScaleSMD Member=Component P17 test PCB
+Added Room: Name=isolationScaleSMD

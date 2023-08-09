@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetArduino1_D5 Pin=Arduino1-D5
+Added Pin To Net: NetName=NetArduino1_D5 Pin=P6-2
+Added Pin To Net: NetName=NetArduino1_D5 Pin=P9-1
+Added Pin To Net: NetName=NetArduino1_D5 Pin=U1-2
+Added Room: Name=SCH_3pha40V

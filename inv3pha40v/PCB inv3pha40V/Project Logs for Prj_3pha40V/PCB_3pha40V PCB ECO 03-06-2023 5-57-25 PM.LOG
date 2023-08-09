@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=domino_2pin New DesignItemId=terminal_2p
+Change Component Footprint: Designator=P1 Old Footprint=Domino_2pin_5.08mm New Footprint=terminal_2p_10mm
+Change Component Comment : Designator=P1 Old Comment=40V_REF New Comment=Domino 2 pin
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Room: Name=SCH_3pha40V

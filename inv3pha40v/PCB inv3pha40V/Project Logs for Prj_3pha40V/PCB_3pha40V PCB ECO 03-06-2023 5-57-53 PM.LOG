@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=terminal_2p_10mm New Footprint=HED2A
+Added Pin To Net: NetName=GNP Pin=Arduino1-GND
+Added Pin To Net: NetName=GNP Pin=Arduino1-GND
+Added Room: Name=SCH_3pha40V

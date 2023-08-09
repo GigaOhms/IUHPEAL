@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND_P Pin=R1-1
+Removed Pin From Net: NetName=NetC6_1 Pin=R1-2
+Removed Pin From Net: NetName=NetC8_2 Pin=R2-2
+Removed Pin From Net: NetName=NetC8_1 Pin=R4-2
+Removed Pin From Net: NetName=NetR3_1 Pin=R5-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R5-2
+Change Component Footprint: Designator=R10 Old Footprint=RESC0805 New Footprint=RES1206
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608L New Footprint=RES1206
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608L New Footprint=RES1206
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608L New Footprint=RES1206
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608L New Footprint=RES1206
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Added Pin To Net: NetName=NetC6_1 Pin=R1-1
+Added Pin To Net: NetName=GND_P Pin=R1-2
+Added Pin To Net: NetName=NetC8_2 Pin=R2-1
+Added Pin To Net: NetName=NetC8_1 Pin=R4-1
+Added Pin To Net: NetName=NetC5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR3_1 Pin=R5-2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-7
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-6
+Added Net: Name=NetR4_2
+Added Room: Name=Sensor_V1

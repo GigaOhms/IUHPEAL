@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_P Pin=JP2-2
+Removed Member From Class: ClassName=Sensor_V1 Member=JP2
+Added Component: Designator=J1(domino_2pin_5.08mm)
+Added Pin To Net: NetName=GND_P Pin=J1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R9-1
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sensor_V1 Member=Component J1 domino
+Added Room: Name=Sensor_V1

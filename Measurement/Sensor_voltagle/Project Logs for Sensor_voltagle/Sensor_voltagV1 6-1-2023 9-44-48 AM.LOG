@@ -1,0 +1,6 @@
+Change Component Comment : Designator=4.99k Old Comment=10K New Comment=4.99K
+Change Component Designator: OldDesignator=4.99k NewDesignator=R
+Change Net Name : Old Net Name=Net4.99k_1 New Net Name=NetJP1_3
+Change Net Name : Old Net Name=Net4.99k_2 New Net Name=NetC7_1
+Added Member To Class: ClassName=Sensor_V1 Member=Component JP? JP 1x1 2.54
+Added Room: Name=Sensor_V1

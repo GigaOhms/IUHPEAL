@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: isolationScaleSMD_V4 - Copy.PcbDoc   27/06/2023  9:52:44 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : isolationScaleSMD_V4 - Copy-RoundHoles.TXT
+ASCII SlotHoles File : isolationScaleSMD_V4 - Copy-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             79        PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Slot              11        PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T5      39mil (1.001mm)                                           Slot              5         PTH        0.00inch (0.00mm)
+T6      45mil (1.151mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      53mil (1.349mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T8      146mil (3.701mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T9      39mil (1.001mm)                                           Slot              2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              158
+
+Total Processing Time (hh:mm:ss) : 00:00:00

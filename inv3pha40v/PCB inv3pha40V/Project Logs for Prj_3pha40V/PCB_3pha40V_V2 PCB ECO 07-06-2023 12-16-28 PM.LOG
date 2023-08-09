@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GNP Pin=Arduino1-GND
+Removed Pin From Net: NetName=GNP Pin=Arduino1-GND
+Removed Pin From Net: NetName=+5V Pin=Arduino1-VIN
+Removed Pin From Net: NetName=+5V Pin=JDC-1
+Removed Pin From Net: NetName=GND Pin=JDC-2
+Removed Pin From Net: NetName=GND Pin=JDC-3
+Removed Member From Class: ClassName=SCH_3pha40V Member=Arduino1
+Removed Member From Class: ClassName=SCH_3pha40V Member=JDC
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Added Component: Designator=P4(Domino_2pin_5.08mm)
+Added Component: Designator=P5(HED2X5N)
+Added Pin To Net: NetName=+5V Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GNP Pin=P5-3
+Added Pin To Net: NetName=+5V Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-7
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R2-1
+Added Pin To Net: NetName=NetP5_1 Pin=R3-2
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=U6-3
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_4 Pin=U6-2
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Pin To Net: NetName=NetP5_6 Pin=U3-3
+Added Net: Name=NetP5_6
+Added Pin To Net: NetName=NetP5_8 Pin=P5-8
+Added Pin To Net: NetName=NetP5_8 Pin=U3-2
+Added Net: Name=NetP5_8
+Added Pin To Net: NetName=NetP5_9 Pin=P5-9
+Added Pin To Net: NetName=NetP5_9 Pin=U1-2
+Added Net: Name=NetP5_9
+Added Pin To Net: NetName=NetP5_10 Pin=P5-10
+Added Pin To Net: NetName=NetP5_10 Pin=U1-3
+Added Net: Name=NetP5_10
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P4 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P5 header_2x5

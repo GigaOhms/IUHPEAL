@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC10_1 Pin=P2-1
+Removed Pin From Net: NetName=NetC12_1 Pin=P2-3
+Added Pin To Net: NetName=NetC12_1 Pin=P2-1
+Added Pin To Net: NetName=NetC10_1 Pin=P2-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R22 Resistor
+Added Room: Name=SCH_3pha40V

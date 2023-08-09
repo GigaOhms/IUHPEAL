@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP3_1 Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-2
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetP3_2
+Added Room: Name=SCH_3pha40V

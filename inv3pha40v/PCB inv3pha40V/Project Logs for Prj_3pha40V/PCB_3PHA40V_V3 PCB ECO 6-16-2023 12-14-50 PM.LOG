@@ -1,0 +1,9 @@
+Added Component: Designator=P4(terminal_2p_10mm)
+Added Component: Designator=P6(HED2A)
+Added Pin To Net: NetName=NetF1_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetDB1_2 Pin=P6-1
+Added Pin To Net: NetName=NetDB1_3 Pin=P6-2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P4 Domino 2 pin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P6 Domino 2 pin
+Added Room: Name=SCH_3pha40V

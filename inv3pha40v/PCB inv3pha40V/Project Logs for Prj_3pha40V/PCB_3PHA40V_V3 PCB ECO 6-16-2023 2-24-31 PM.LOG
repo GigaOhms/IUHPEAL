@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P4 Old Footprint=HED2A New Footprint=Domino_2pin_5.08mm
+Change Component Footprint: Designator=P6 Old Footprint=HED2A New Footprint=Domino_2pin_5.08mm
+Added Component: Designator=LO1(Lo Khoang - 6mm)
+Added Component: Designator=LO2(Lo Khoang - 6mm)
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Room: Name=SCH_3pha40V

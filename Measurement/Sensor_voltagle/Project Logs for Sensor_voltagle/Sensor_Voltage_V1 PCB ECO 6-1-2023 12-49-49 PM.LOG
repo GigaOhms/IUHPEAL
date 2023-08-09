@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=R7-2
+Removed Pin From Net: NetName=NetC7_2 Pin=R15-1
+Removed Pin From Net: NetName=NetC7_1 Pin=U?-3
+Removed Pin From Net: NetName=NetC7_2 Pin=U?-4
+Added Pin To Net: NetName=NetC7_2 Pin=R7-2
+Added Pin To Net: NetName=NetC7_1 Pin=R15-1
+Added Pin To Net: NetName=NetC7_2 Pin=U?-3
+Added Pin To Net: NetName=NetC7_1 Pin=U?-4
+Added Room: Name=Sensor_V1

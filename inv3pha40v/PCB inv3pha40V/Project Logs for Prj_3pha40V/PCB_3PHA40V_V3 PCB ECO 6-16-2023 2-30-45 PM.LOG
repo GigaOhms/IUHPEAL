@@ -1,0 +1,5 @@
+Added Component: Designator=LO3(Lo Khoang - 6mm)
+Added Component: Designator=LO4(Lo Khoang - 6mm)
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO4 LO KHOAN
+Added Room: Name=SCH_3pha40V

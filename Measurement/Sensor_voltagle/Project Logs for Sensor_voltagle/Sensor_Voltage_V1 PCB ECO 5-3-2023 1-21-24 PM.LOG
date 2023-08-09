@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=JP1-3
+Removed Pin From Net: NetName=NetC8_1 Pin=JP1-4
+Added Pin To Net: NetName=NetC8_1 Pin=JP1-3
+Added Pin To Net: NetName=NetC8_2 Pin=JP1-4
+Added Room: Name=Sensor_V1

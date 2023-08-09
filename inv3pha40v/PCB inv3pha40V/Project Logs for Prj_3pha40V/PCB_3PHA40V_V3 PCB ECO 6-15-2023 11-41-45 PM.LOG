@@ -1,0 +1,25 @@
+Added Component: Designator=R7(resistor_t/h_1/4w)
+Added Component: Designator=R8(resistor_t/h_1/4w)
+Added Component: Designator=R9(resistor_t/h_1/4w)
+Added Component: Designator=R13(resistor_t/h_1/4w)
+Added Component: Designator=R14(resistor_t/h_1/4w)
+Added Component: Designator=R15(resistor_t/h_1/4w)
+Added Pin To Net: NetName=NetC1_2 Pin=R7-1
+Added Pin To Net: NetName=NetD4_1 Pin=R7-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-1
+Added Pin To Net: NetName=NetD5_1 Pin=R8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-1
+Added Pin To Net: NetName=NetD6_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetD7_1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetD8_1 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetD9_1 Pin=R15-2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R7 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R8 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R9 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R13 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R14 10K
+Added Member To Class: ClassName=SCH_3pha40V Member=Component R15 10K
+Added Room: Name=SCH_3pha40V

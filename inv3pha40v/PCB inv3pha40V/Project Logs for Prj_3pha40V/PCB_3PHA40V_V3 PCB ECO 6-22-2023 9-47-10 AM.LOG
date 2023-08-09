@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=P9 NewDesignator=HIN1
+Change Component Designator: OldDesignator=P10 NewDesignator=HIN2
+Change Component Designator: OldDesignator=P11 NewDesignator=HIN3
+Change Net Name : Old Net Name=NetIR1_2 New Net Name=NetHIN1_1
+Change Net Name : Old Net Name=NetIR2_2 New Net Name=NetHIN2_1
+Change Net Name : Old Net Name=NetIR3_2 New Net Name=NetHIN3_1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Room: Name=SCH_3pha40V

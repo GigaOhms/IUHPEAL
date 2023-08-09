@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sensor_Voltage_V1.PcbDoc   6/3/2023  1:04:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sensor_Voltage_V1-RoundHoles.TXT
+ASCII SquareHoles File : Sensor_Voltage_V1-SquareHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             3         PTH        1.62inch (41.20mm)
+T2      20mil (0.5mm)                                             Round             30        PTH        11.28inch (286.49mm)
+T3      30mil (0.749mm)                                           Square            12        PTH        3.42inch (86.88mm)
+T4      39mil (1.001mm)                                           Round             6         PTH        2.01inch (51.10mm)
+T5      43mil (1.1mm)                                             Round             18        PTH        2.12inch (53.90mm)
+T6      51mil (1.3mm)                                             Round             6         PTH        1.82inch (46.28mm)
+T7      118mil (3mm)                                              Round             4         PTH        6.67inch (169.30mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              79
+
+Total Processing Time (hh:mm:ss) : 00:00:00

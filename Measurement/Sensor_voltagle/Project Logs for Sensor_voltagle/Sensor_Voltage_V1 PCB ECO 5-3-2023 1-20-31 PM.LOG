@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=-1
+Removed Pin From Net: NetName=NetC8_2 Pin=-2
+Removed Pin From Net: NetName=NetC10_1 Pin=-3
+Removed Pin From Net: NetName=GND_D Pin=-4
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator=1k NewDesignator=R8
+Change Component Designator: OldDesignator=1K NewDesignator=R10
+Change Component Designator: OldDesignator=1nF NewDesignator=C5
+Change Component Designator: OldDesignator=1nF NewDesignator=C6
+Change Component Designator: OldDesignator=1uF NewDesignator=C3
+Change Component Designator: OldDesignator=1uF NewDesignator=C4
+Change Component Designator: OldDesignator=10K NewDesignator=R1
+Change Component Designator: OldDesignator=10K NewDesignator=R5
+Change Component Designator: OldDesignator=10nF NewDesignator=C7
+Change Component Designator: OldDesignator=10nF NewDesignator=C8
+Change Component Designator: OldDesignator=10nF NewDesignator=C11
+Change Component Designator: OldDesignator=10nF NewDesignator=C12
+Change Component Designator: OldDesignator=10nF NewDesignator=C13
+Change Component Designator: OldDesignator=10nF NewDesignator=C14
+Change Component Designator: OldDesignator=10R NewDesignator=R2
+Change Component Designator: OldDesignator=10R NewDesignator=R4
+Change Component Designator: OldDesignator=10uF NewDesignator=C9
+Change Component Designator: OldDesignator=10uF NewDesignator=C10
+Change Component Designator: OldDesignator=100nF NewDesignator=C1
+Change Component Designator: OldDesignator=100nF NewDesignator=C2
+Change Component Designator: OldDesignator=330k NewDesignator=R6
+Change Component Designator: OldDesignator=330k NewDesignator=R7
+Change Component Designator: OldDesignator=330k NewDesignator=R9
+Change Component Designator: OldDesignator=680R NewDesignator=R3
+Change Component Designator: OldDesignator=AMC1301 NewDesignator=U2
+Change Component Designator: OldDesignator=ams1117_5->3.3v NewDesignator=U3
+Change Component Designator: OldDesignator=DC_DC_5V NewDesignator=U1
+Change Component Designator: OldDesignator=LED_3.3V NewDesignator=L2
+Change Component Designator: OldDesignator=LED_5V NewDesignator=L1
+Added Pin To Net: NetName=NetC10_1 Pin=JP1-1
+Added Pin To Net: NetName=GND_D Pin=JP1-2
+Added Pin To Net: NetName=NetC8_2 Pin=JP1-3
+Added Pin To Net: NetName=NetC8_1 Pin=JP1-4
+Added Member To Class: ClassName=Sensor_V1 Member=Component C2 100nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C4 1uF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C6 1nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C8 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C9 10uF_16V
+Added Member To Class: ClassName=Sensor_V1 Member=Component C11 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C12 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C13 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component C14 10nF
+Added Member To Class: ClassName=Sensor_V1 Member=Component J1 domino
+Added Member To Class: ClassName=Sensor_V1 Member=Component R4 10R
+Added Member To Class: ClassName=Sensor_V1 Member=Component R5 10K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R7 330K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R9 330K
+Added Member To Class: ClassName=Sensor_V1 Member=Component R10 1K
+Added Room: Name=Sensor_V1

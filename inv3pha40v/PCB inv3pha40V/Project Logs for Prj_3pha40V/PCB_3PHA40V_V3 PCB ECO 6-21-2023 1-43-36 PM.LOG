@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetArduino1_A0 Pin=Arduino1-A0
+Removed Pin From Net: NetName=NetArduino1_D5 Pin=Arduino1-D5
+Removed Pin From Net: NetName=NetArduino1_D11 Pin=Arduino1-D11
+Removed Pin From Net: NetName=GND Pin=Arduino1-GND
+Removed Pin From Net: NetName=GND Pin=Arduino1-GND
+Removed Pin From Net: NetName=+5V Pin=Arduino1-VIN
+Removed Member From Class: ClassName=SCH_3pha40V Member=Arduino1
+Added Component: Designator=U8(STM32F103C8T6_trantanloc)
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetArduino1_A0 Pin=U8-13
+Added Pin To Net: NetName=NetArduino1_D11 Pin=U8-14
+Added Pin To Net: NetName=NetArduino1_D5 Pin=U8-16
+Added Pin To Net: NetName=+5V Pin=U8-38
+Added Pin To Net: NetName=GND Pin=U8-39
+Change Net Name : Old Net Name=NetArduino1_A0 New Net Name=NetP24_1
+Change Net Name : Old Net Name=NetArduino1_D5 New Net Name=NetP6_2
+Change Net Name : Old Net Name=NetArduino1_D11 New Net Name=NetP8_2
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=U3-2
+Added Pin To Net: NetName=NetP7_2 Pin=U8-15
+Added Net: Name=NetP7_2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO4 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component U8 STM32F301C8T6_1
+Added Room: Name=SCH_3pha40V

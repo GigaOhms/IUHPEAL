@@ -1,0 +1,5 @@
+Added Component: Designator=P7(head2)
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Member To Class: ClassName=SCH_3pha40V Member=Component P7 header_2x1
+Added Room: Name=SCH_3pha40V

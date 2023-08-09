@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+5 Pin=1-1
+Removed Pin From Net: NetName=+5 Pin=D1-2
+Removed Pin From Net: NetName=+5 Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GNDin Pin=Pin2-2
+Removed Member From Class: ClassName=isolationScaleSMD Member=D1
+Removed Member From Class: ClassName=isolationScaleSMD Member=D2
+Removed Member From Class: ClassName=isolationScaleSMD Member=D3
+Removed Member From Class: ClassName=isolationScaleSMD Member=D4
+Removed Member From Class: ClassName=isolationScaleSMD Member=Pin1
+Removed Member From Class: ClassName=isolationScaleSMD Member=Pin2
+Change Component Comment : Designator=VR1 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=VR2 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=VR3 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=VR4 Old Comment=10K New Comment=1K
+Change Component Designator: OldDesignator=GND NewDesignator=P1
+Change Component Designator: OldDesignator=IN1 NewDesignator=P7
+Change Component Designator: OldDesignator=IN2 NewDesignator=P15
+Change Component Designator: OldDesignator=IN3 NewDesignator=P3
+Change Component Designator: OldDesignator=IN4 NewDesignator=P11
+Change Component Designator: OldDesignator=OUT1 NewDesignator=P8
+Change Component Designator: OldDesignator=OUT2 NewDesignator=P16
+Change Component Designator: OldDesignator=OUT3 NewDesignator=P4
+Change Component Designator: OldDesignator=OUT4 NewDesignator=P13
+Change Component Designator: OldDesignator=T1 NewDesignator=P6
+Change Component Designator: OldDesignator=T2 NewDesignator=P14
+Change Component Designator: OldDesignator=T3 NewDesignator=P2
+Change Component Designator: OldDesignator=T4 NewDesignator=P10
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR2
+Change Component Designator: OldDesignator=VR2 NewDesignator=VR4
+Change Component Designator: OldDesignator=VR3 NewDesignator=VR1
+Change Component Designator: OldDesignator=VR4 NewDesignator=VR3
+Added Component: Designator=Pin 18650 1cell(Pin 18650 1 cell)
+Added Component: Designator=SW?(SWSLIDT_SPDT_S_8X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PART#"; Value = "OS102011MS2QN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.4$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SlideSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JDC1-1
+Added Pin To Net: NetName=GNDin Pin=Pin 18650 1cell-2
+Added Pin To Net: NetName=+5 Pin=SW?-3
+Added Pin To Net: NetName=VBAT Pin=Pin 18650 1cell-1
+Added Pin To Net: NetName=VBAT Pin=SW?-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VIN Pin=1-1
+Added Pin To Net: NetName=VIN Pin=SW?-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=isolationScaleSMD Member=Component Pin 18650 1cell P?
+Added Member To Class: ClassName=isolationScaleSMD Member=Component SW? SlideSwitch
+Added Member To Class: ClassName=isolationScaleSMD Member=Component VR1 1K
+Added Member To Class: ClassName=isolationScaleSMD Member=Component VR4 1K
+Added Room: Name=isolationScaleSMD

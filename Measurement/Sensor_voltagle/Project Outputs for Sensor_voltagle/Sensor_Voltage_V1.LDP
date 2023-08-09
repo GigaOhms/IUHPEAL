@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\quynh\OneDrive - Industrial University of HoChiMinh City\NCKH_INVERTER\PCB\Sensor_voltagle\Sensor_Voltage_V1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sensor_voltage_v1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=sensor_voltage_v1-squareholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net84VDC_1 Pin=P1-1
+Removed Member From Class: ClassName=SCH_3pha40V Member=P1
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component GND testpin
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=SCH_3pha40V Member=Component LO3 LO KHOAN
+Added Room: Name=SCH_3pha40V
